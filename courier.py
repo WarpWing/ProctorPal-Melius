@@ -16,7 +16,7 @@ from llama_index.embeddings import VoyageEmbedding
 from qdrant_client.models import Distance, VectorParams
 
 version = "1.0.2"
-st.set_page_config(page_title=f"Gaia v{version}", page_icon="🌎", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title=f"Courier v{version}", page_icon="🌎", layout="centered", initial_sidebar_state="auto", menu_items=None)
 st.title(f"Courier v{version}")
 
 # Set up logging and tracing via Arize Phoenix
