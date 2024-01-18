@@ -1,2 +1,2 @@
 # Courier
-A improved version of ProctorPal (V1 Continuation from Proctor Academy Senior Project)
+Generative RAG Assistant for Proctor Academy (Continuation of Senior Project (ProctorPal) ) 
