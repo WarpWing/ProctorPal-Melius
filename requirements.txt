@@ -1,0 +1,10 @@
+streamlit
+llama-index
+arize-phoenix[experimental]
+aiohttp 
+requests 
+tqdm 
+typing_extensions
+openai
+transformers
+optimum[exporters]
